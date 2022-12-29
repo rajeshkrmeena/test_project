@@ -1,0 +1,2 @@
+s= 'Thats my Kung Fu'.encode('utf-8')
+print(s.hex())
